@@ -1,0 +1,8 @@
+
+tres estados de versiones
+
+preparado
+
+modificado
+
+confirmado
